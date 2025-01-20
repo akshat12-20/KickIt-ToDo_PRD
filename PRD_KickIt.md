@@ -24,9 +24,9 @@
 ## Features & Requirements
 - <span style="font-size: larger;"><u>Priority-1</u></span> :
     - <u>Multiple categories</u>: Allows users to create multiple to-do sections, for e.g., work, daily chores, etc to make it structured & focused. 
-    - <u>Sub-tasks</u>: Allows users to divide each task into sub-tasks, making it easier for user to complete them.
+    - <u>Sub-tasks</u>: Allows users to divide each task into sub-tasks, making it easier for users to complete them.
     - <u>Priority & timer option</u>: Allows users to set priority of the tasks either with the numbers or colours. Also provides timer option to track the time taken to complete a particular task.
-    - <u>Deadline reminders</u>: Users receives three reminders via whatsapp/email. Three days before the deadline, 24 hours before the deadline & a missed reminder after the deadline.
+    - <u>Deadline reminders</u>: Users receive three reminders via whatsapp/email. Three days before the deadline, 24 hours before the deadline & a missed reminder after the deadline.
     - <u>Strategy support</u>: The missed tasks are automatically transferred to strategy section without the date, priority & timer content. There users are allowed to reset the particular task. 
     - <u>Gmail integration</u>: Allows users to integrate their gmail accounts in a specific section and provides them with a feature to save important mails in the saved section.
     - <u>History</u>: The history of the previous data and timer content restores. So that users can track their progress.
@@ -43,7 +43,7 @@
 ## Technical Requirements
 1. <u>Frameworks</u>: React, Nextjs, Nodejs.
 2. <u>Database</u>: MySQL
-3. <u>Infrastructure</u>: cloud based hosted on AWS.
+3. <u>Infrastructure</u>: cloud-based hosted on AWS.
 
 ## Design Requirements
 - The design must be responsive.
@@ -68,7 +68,7 @@
 
 ## Success Metrics
 - Achieve 90% user satisfaction within 3 months of launch.
-- Increase productivity of 50% users to 80%.
+- Increase productivity of 50% users to 80% within a year of launch.
 
 ## Timeline
 The final product must be ready to launch within 1.5 years.
